@@ -90,6 +90,14 @@ const ProjectInformation = ({ informRef }) => {
       githubRepo: "https://github.com/fireFistAniket/aptitudenotes",
       hostedLink: "https://firefistaniket.github.io/aptitudenotes/",
     },
+    {
+      imgSrc: "/assets/Car3dModel-screen.png",
+      title: "Car3dModel",
+      description:
+        "Car3dModel is a basic 3d car model with animation. It is created with Vite & threejs",
+      githubRepo: "https://github.com/fireFistAniket/Car3dModel",
+      hostedLink: "https://firefistaniket.github.io/Car3dModel/",
+    },
   ];
 
   return (
