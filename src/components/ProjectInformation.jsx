@@ -11,6 +11,21 @@ const ProjectInformation = ({ informRef }) => {
       hostedLink: "https://fipezo.com/",
     },
     {
+      imgSrc: "/assets/rabins-photography-page-screen.png",
+      title: "Rabin's Photography",
+      description:
+        "At Rabin's photography, we believe that every moment is special and deserves to be captured beautifully. With our team of experienced photographers, state-of-the-art equipment, and commitment to excellence, we strive to turn your precious moments into lasting memories.It is devloped by me with associates company Rabin's Photography.",
+      hostedLink: "https://rabinsphotography.com/",
+    },
+    {
+      imgSrc: "/assets/virtualparadise-page-screen.png",
+      title: "VirtualParadise",
+      description:
+        "Explore VirtualParadise, your ultimate destination for discovering and exploring a vast collection of games. Powered by the IGDB API, VirtualParadise offers detailed game information, release dates, genres, and more. Find your next gaming adventure today!",
+      githubRepo: "https://github.com/fireFistAniket/virtualparadise",
+      hostedLink: "https://virtualparadise-cit4.vercel.app/",
+    },
+    {
       imgSrc: "/assets/entertainx-home-screens.png",
       title: "EntertainX",
       description:
