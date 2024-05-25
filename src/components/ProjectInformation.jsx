@@ -26,6 +26,14 @@ const ProjectInformation = ({ informRef }) => {
       hostedLink: "https://virtualparadise-cit4.vercel.app/",
     },
     {
+      imgSrc: "/assets/animexhub-page-screen.png",
+      title: "AnimexhuB",
+      description:
+        "AnimeXhuB welcomes visitors with stunning anime imagery, offering a captivating glimpse into the world of anime. Featuring vibrant colors and dynamic designs, it sets the stage for an immersive anime experience.",
+      githubRepo: "https://github.com/fireFistAniket/animexhub",
+      hostedLink: "https://firefistaniket.github.io/animexhub/",
+    },
+    {
       imgSrc: "/assets/entertainx-home-screens.png",
       title: "EntertainX",
       description:
